@@ -13,6 +13,6 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
- def all_phrases(arg)
-  puts arg 
+ def all_phrases(character)
+  puts character 
  end
