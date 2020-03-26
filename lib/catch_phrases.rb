@@ -13,7 +13,7 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
- def all_phrases(character, phrase)
+ def all_phrases(character)
   mario
   toadstool
   link
