@@ -14,5 +14,7 @@ def link
 end
 
  def all_phrases(character)
-  character
+  mario
+  toadstool
+  link
  end
