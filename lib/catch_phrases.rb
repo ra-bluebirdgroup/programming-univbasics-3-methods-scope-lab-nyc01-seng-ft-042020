@@ -14,5 +14,5 @@ def link
 end
 
  def all_phrases(character)
-  puts "It's-a me, Mario!"
+  puts character
  end
